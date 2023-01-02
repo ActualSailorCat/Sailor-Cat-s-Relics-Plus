@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_RUIN_NAME">
+			<Text>Unexplored Ruins</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_RUIN_DESCRIPTION">
+			<Text>Delve into the depths of these ruins to discover a free [ICON_GreatWork_Relic] Relic.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SAILOR_INVESTITURE_NAME">
+			<Text>Investiture</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SAILOR_INVESTITURE_DESCRIPTION">
+			<Text>Receive one free [ICON_GreatWork_Relic] Relic if you have an open slot before taking this Pantheon. The Monument has a slot for [ICON_GreatWork_Relic] Relics.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SAILOR_INVESTITURE_DESCRIPTION_MODE">
+			<Text>Receive one free [ICON_GreatWork_Relic] Relic if you have an open slot before taking this Pantheon. The Shrine has a slot for [ICON_GreatWork_Relic] Relics.</Text>
+		</Row>
+	</BaseGameText>
+	<LocalizedText>
+		<!--<Row Tag="LOC_SAILOR_RELICS_PLUS_WONDER_EXT" Language="en_US">
+			<Text> Grants one free [ICON_GreatWork_Relic] Relic.</Text>
+		</Row>-->
+		<!--EN-->
+		<!--CN_S translation by UzukiShimamura卯月-->
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_RUIN_NAME" Language="zh_Hans_CN_CN">
+			<Text>未探遗迹</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_RUIN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>深入探索便可发现一个免费 [ICON_GreatWork_Relic] 遗物。</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SAILOR_INVESTITURE_NAME" Language="zh_Hans_CN">
+			<Text>授职仪式</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SAILOR_INVESTITURE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>若您创立该万神殿前有一个空的遗物槽位，获得一个免费 [ICON_GreatWork_Relic] 遗物。纪念碑获得一个 [ICON_GreatWork_Relic] 遗物槽位。</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SAILOR_INVESTITURE_DESCRIPTION_MODE" Language="zh_Hans_CN">
+			<Text>若您创立该万神殿前有一个空的遗物槽位，获得一个免费 [ICON_GreatWork_Relic] 遗物。神社一个 [ICON_GreatWork_Relic] 遗物槽位。</Text>
+		</Row>
+		<!--CS_T-->
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_RUIN_NAME" Language="zh_Hant_HK">
+			<Text>未開發的遺跡</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_RUIN_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>深入這些廢墟的深處，發現一個免費的 [ICON_GreatWork_Relic] 遺跡。</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SAILOR_INVESTITURE_NAME" Language="zh_Hant_HK">
+			<Text>授職權</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SAILOR_INVESTITURE_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>如果您在進入萬神殿之前有空位，可免費獲得一件 [ICON_GreatWork_Relic] 遺物。 紀念碑有一個放置 [ICON_GreatWork_Relic] 遺物的插槽。</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SAILOR_INVESTITURE_DESCRIPTION_MODE" Language="zh_Hant_HK">
+			<Text>如果您在進入萬神殿之前有空位，可免費獲得一件 [ICON_GreatWork_Relic] 遺物。 神殿有一個放置 [ICON_GreatWork_Relic] 遺物的槽位。。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
